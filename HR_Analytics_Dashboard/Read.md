@@ -2,6 +2,7 @@
 
 My goal was to assist organizations in improving employee retention and performance by creating a comprehensive HR Analytics Dashboard.
 
+
 **STEPS FOLLOWED**
 
 1. #DataExtraction: Extracted the client-provided data.
@@ -16,6 +17,7 @@ My goal was to assist organizations in improving employee retention and performa
 
 6. #Reports: Developed user-friendly reports and interactive visualizations through the dashboard.
 
+
 **KEY INSIGHTS**
 
 ✅ Employees aged 26 to 35 exhibit the highest attrition rate.
@@ -25,6 +27,7 @@ My goal was to assist organizations in improving employee retention and performa
 ✅ Job satisfaction is directly related to attrition rates across various roles.
 
 ✅ Employees with 1 to 2 years of experience display the highest attrition rates. Surprisingly, employees earning below the average salary of 6.5k are more likely to leave the company.
+
 
 
 ![Capture](https://github.com/user-attachments/assets/818ec02f-b2eb-4eb0-bb4f-3f5640d38358)
