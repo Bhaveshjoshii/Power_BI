@@ -13,11 +13,17 @@ As a data analyst in this project, my main responsibility is to analyze the inbo
 **Following Steps are involved in creating the Dashboard**
 
 Step 1: Extract data
+
 Step 2: Transform data
+
 Step 3: Load data
+
 Step 3: Data Modeling
+
 Step 4: Writing DAX 
+
 Step 5: Report Building
+
 step 6: Publishing in PowerBI Service 
 
 #Using Power Query Editor performed data cleaning, added new measures using DAX, and included new relevant columns to enhance the quality of the data and improve the analysis in Power BI. Developed a Power BI dashboard and parallelly tested the results with Excel. 
