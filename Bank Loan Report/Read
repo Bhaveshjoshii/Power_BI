@@ -3,7 +3,7 @@ Welcome to the Bank Loan Analysis Power BI project repository! This project aims
 
 Overview
 This Power BI project analyzes various aspects of bank loans to provide valuable insights for decision-making. It comprises three main dashboards: Summary, Overview, and Details.
-
+Uploading Capture.JPG…
 Dashboard 1: Summary
 Key Performance Indicators (KPIs) Requirements:
 Total Loan Applications: Calculate the total number of loan applications received during a specified period, including Month-to-Date (MTD) and Month-over-Month (MoM) changes.
